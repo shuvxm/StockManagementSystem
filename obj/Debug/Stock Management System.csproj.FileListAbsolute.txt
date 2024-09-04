@@ -1,0 +1,41 @@
+C:\Users\kumar\OneDrive\Desktop\Internship\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+C:\Users\kumar\OneDrive\Desktop\Internship\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+C:\Users\kumar\OneDrive\Desktop\Internship\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+C:\Users\kumar\OneDrive\Desktop\Internship\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.LoginForm.resources
+C:\Users\kumar\OneDrive\Desktop\Internship\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Properties.Resources.resources
+C:\Users\kumar\OneDrive\Desktop\Internship\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.GenerateResource.Cache
+C:\Users\kumar\OneDrive\Desktop\Internship\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+C:\Users\kumar\OneDrive\Desktop\Internship\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+C:\Users\kumar\OneDrive\Desktop\Internship\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.CustomerButton.resources
+C:\Users\kumar\OneDrive\Desktop\Internship\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Employee.resources
+C:\Users\kumar\OneDrive\Desktop\Internship\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.InventoryDetails.resources
+C:\Users\kumar\OneDrive\Desktop\Internship\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.InventoryMaster.resources
+C:\Users\kumar\OneDrive\Desktop\Internship\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Home.resources
+C:\Users\dassi\OneDrive\Desktop\SMS Final Project\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+C:\Users\dassi\OneDrive\Desktop\SMS Final Project\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+C:\Users\dassi\OneDrive\Desktop\SMS Final Project\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+C:\Users\dassi\OneDrive\Desktop\SMS Final Project\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csprojResolveAssemblyReference.cache
+C:\Users\dassi\OneDrive\Desktop\SMS Final Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.CustomerButton.resources
+C:\Users\dassi\OneDrive\Desktop\SMS Final Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Employee.resources
+C:\Users\dassi\OneDrive\Desktop\SMS Final Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Home.resources
+C:\Users\dassi\OneDrive\Desktop\SMS Final Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.InventoryDetails.resources
+C:\Users\dassi\OneDrive\Desktop\SMS Final Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.InventoryMaster.resources
+C:\Users\dassi\OneDrive\Desktop\SMS Final Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.LoginForm.resources
+C:\Users\dassi\OneDrive\Desktop\SMS Final Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Properties.Resources.resources
+C:\Users\dassi\OneDrive\Desktop\SMS Final Project\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.GenerateResource.Cache
+C:\Users\dassi\OneDrive\Desktop\SMS Final Project\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+C:\Users\dassi\OneDrive\Desktop\SMS Final Project\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+C:\Users\Lenovo\Downloads\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+C:\Users\Lenovo\Downloads\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+C:\Users\Lenovo\Downloads\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+C:\Users\Lenovo\Downloads\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+C:\Users\Lenovo\Downloads\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+C:\Users\Lenovo\Downloads\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.CustomerButton.resources
+C:\Users\Lenovo\Downloads\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Employee.resources
+C:\Users\Lenovo\Downloads\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Home.resources
+C:\Users\Lenovo\Downloads\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.InventoryDetails.resources
+C:\Users\Lenovo\Downloads\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.InventoryMaster.resources
+C:\Users\Lenovo\Downloads\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.LoginForm.resources
+C:\Users\Lenovo\Downloads\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.GenerateResource.Cache
